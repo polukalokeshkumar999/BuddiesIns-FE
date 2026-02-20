@@ -9,5 +9,6 @@ public class Main{
         System.out.println("Helloooo");
         System.out.println("A");
         
+        System.out.println("B");
     }
 }
