@@ -1,0 +1,11 @@
+import java.util.*;
+public class Class {
+    public static void main(String[] args) {
+        try (Scanner sc = new Scanner(System.in)) {
+            System.out.println("Enter the number of elements in the array:");
+            int n = sc.nextInt();
+            System.out.println(n);
+        }
+
+    }
+}
